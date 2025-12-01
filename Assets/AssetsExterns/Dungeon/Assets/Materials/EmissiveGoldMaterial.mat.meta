@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a19fbe8ecc48e5a4bbf96082b523b6f0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148252
+  packageName: Modular Dungeon Low Poly Package
+  packageVersion: 1.0
+  assetPath: Assets/Modular Dungeon Low Poly Pack/Assets/Materials/EmissiveGoldMaterial.mat
+  uploadId: 318549

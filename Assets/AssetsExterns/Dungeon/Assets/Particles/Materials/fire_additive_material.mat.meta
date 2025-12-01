@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 417d2842f6028ad4daa9e2002ddf5994
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148252
+  packageName: Modular Dungeon Low Poly Package
+  packageVersion: 1.0
+  assetPath: Assets/Modular Dungeon Low Poly Pack/Assets/Particles/Materials/fire_additive_material.mat
+  uploadId: 318549
